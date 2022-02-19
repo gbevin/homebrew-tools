@@ -2,7 +2,7 @@ class Sendmidi < Formula
   desc "Multi-platform command-line tool to send out MIDI messages"
   homepage "https://github.com/gbevin/SendMIDI"
   url "https://github.com/gbevin/SendMIDI/archive/1.1.0.tar.gz"
-  sha256 "f5db4a6fbca6520781ca4fddae42f4678d12edb8343eed5363402cb2f92b4a14"
+  sha256 "639f079af04b2a0f7579adaa4bc89c417741aaddc30e40d5d6068b2d561e595e"
 
   head "https://github.com/gbevin/SendMIDI.git"
 
