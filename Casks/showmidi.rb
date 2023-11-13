@@ -1,6 +1,6 @@
 cask "showmidi" do
-  version "0.5.1"
-  sha256 "20699eee1c84a819abf9fbdb5c4d4a60698b7501a508448f293f3c563136347e"
+  version "0.5.2"
+  sha256 "0ac2f99c3610a1a99c6b7ce797f4a253d3b7ff804ad88decec8eaebb9221fc59"
 
   url "https://github.com/gbevin/ShowMIDI/releases/download/#{version}/ShowMIDI-macOS-#{version}.zip"
   name "ShowMIDI"
