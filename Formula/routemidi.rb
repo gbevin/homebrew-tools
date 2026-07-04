@@ -1,8 +1,8 @@
 class Routemidi < Formula
   desc "Multi-platform command-line tool to route and transform MIDI messages"
   homepage "https://github.com/gbevin/RouteMIDI"
-  url "https://github.com/gbevin/RouteMIDI/archive/refs/tags/0.9.3.tar.gz"
-  sha256 "cf10aaad2c02eb3f593f88904b707dd874456fc63eed95c59acb0fc411e5bb1e"
+  url "https://github.com/gbevin/RouteMIDI/archive/refs/tags/0.9.4.tar.gz"
+  sha256 "a23970795e955fa73b0d814e2b62dab3ea2775555cc9f764b0cb3d18793da851"
 
   head "https://github.com/gbevin/RouteMIDI.git"
 
