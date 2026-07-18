@@ -9,7 +9,7 @@ class Routemidi < Formula
   depends_on xcode: :build
 
   def install
-    xcodebuild "-project", "./Builds/MacOSX/routemidi.xcodeproj", "-configuration", "Release", "SYMROOT=build"
+    xcodebuild "-project", "./Builds/MacOSX/routemidi.xcodeproj", "-configuration", "Release", "SYMROOT=build", "MACOSX_DEPLOYMENT_TARGET=#{MacOS.version}"
     bin.install "./Builds/MacOSX/build/Release/routemidi"
   end
 
