@@ -1,8 +1,8 @@
 class Receivemidi < Formula
   desc "Multi-platform command-line tool to monitor and receive MIDI messages"
   homepage "https://github.com/gbevin/ReceiveMIDI"
-  url "https://github.com/gbevin/ReceiveMIDI/archive/refs/tags/1.5.0.tar.gz"
-  sha256 "0dcf43bfa2ad1ead4b8a5e42b6fce32da37923a5d6ca762ea9be5217e10aa730"
+  url "https://github.com/gbevin/ReceiveMIDI/archive/refs/tags/1.6.0.tar.gz"
+  sha256 "3924218556035a3b57cee4d8a4a2553ad68131c4d3fbfb5ff149d65377f655a7"
 
   head "https://github.com/gbevin/ReceiveMIDI.git"
 
